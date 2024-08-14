@@ -9,39 +9,39 @@ const skillData = [
   {
     skill: "HTML",
     type: "front",
-    color:"red"
+    color: "coral",
   },
   {
     skill: "CSS",
     type: "front",
-    color:"orange"
+    color: "lightskyblue",
   },
   {
     skill: "JS",
     type: "front",
-    color:"gold"
+    color: "gold",
   },
   {
     skill: "React",
     type: "front",
-    color:"#0095ff"
-  },
-  {
-    skill: "C",
-    type: "embedded",
-    color:"purple"
-  },
-  {
-    skill: "C++",
-    type: "embedded",
-    color:"violet"
+    color: "lightseagreen",
   },
   {
     skill: "GIT",
     type: "others",
-    color:"orangered"
+    color: "orangered",
   },
-]
+  {
+    skill: "C",
+    type: "embedded",
+    color: "violet",
+  },
+  {
+    skill: "C++",
+    type: "embedded",
+    color: "pink",
+  },
+];
 export default skillData;
 
 function App() {
